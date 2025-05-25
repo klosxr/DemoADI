@@ -4,6 +4,16 @@
 
 Manual para instalación y despliegue automático de un sistema de microservicios distribuidos.
 
+## Índice
+
+- [Despliegue de Microservicios Distribuidos](#despliegue-de-microservicios-distribuidos)
+- [Instalación plataforma (OpenStack)](#instalación-plataforma-openstack)
+  - [1º Crear VM NodoDirector, VM NodoWorker y VM jumpstart](#1º-crear-vm-nododirector-vm-nodoworker-y-vm-jumpstart)
+  - [2º Instalar OpenStack(VM)](#2º-instalar-openstackvm)
+- [Despliegue en plataforma (jumpstart) (OpenStack)](#despliegue-en-plataforma-jumpstart-openstack)
+  - [1º Clonar el repositorio](#1º-clonar-el-repositorio)
+  - [2º Dar permisos a scripts](#2º-dar-permisos-a-scripts)
+  - [3º Desplegar](#3º-desplegar)
 
 ## Instalación plataforma (OpenStack)
 
